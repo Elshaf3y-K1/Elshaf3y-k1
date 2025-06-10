@@ -151,6 +151,11 @@
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Elshaf3y-K1&repo=Property_state&theme=tokyonight" />
     </a>
   </p>
+  <p align="center">
+    <a href="https://github.com/Elshaf3y-K1/JS_CRUD_Operation ">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Elshaf3y-K1&repo=JS_CRUD_Operation &theme=tokyonight" />
+    </a>
+  </p>
 </div>
 </details>
 
