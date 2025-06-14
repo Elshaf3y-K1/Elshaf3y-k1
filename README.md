@@ -156,6 +156,9 @@
     <a href="https://github.com/Elshaf3y-K1/Drag_and_Drop">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Elshaf3y-K1&repo=Drag_and_Drop&theme=tokyonight" alt="Drag and Drop Project"/>
     </a>
+    <a href="https://github.com/Elshaf3y-K1/Odoo_Real_Estate_App">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Elshaf3y-K1&repo=Odoo_Real_Estate_App&theme=tokyonight" alt="Odoo Real Estate App"/>
+    </a>
   </p>
 </div>
 </details>
